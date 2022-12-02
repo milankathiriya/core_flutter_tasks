@@ -17,3 +17,9 @@
 - Sum of diagonal elements
 - Sum of anti-diagonal elements
 - Press 0 for exit
+
+---
+
+# Flutter App Tasks
+
+![List of Fruits](list_of_fruits.png?raw=true "Title")
