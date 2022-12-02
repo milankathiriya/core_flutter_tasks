@@ -22,4 +22,4 @@
 
 # Flutter App Tasks
 
-![List of Fruits](pr1/list_of_friuts.png?raw=true "Title")
+![List of Fruits](pr1/list_of_friuts.png?raw=true)
