@@ -11,15 +11,10 @@
 5. Write a Dart program to find below mentioned operations on the 3x3 array using menu-driven programming approach.
 
    > Perform below all mentioned by user choice:
-
+   >
    > > Sum of all elements
-
    > > Sum of specific Row
-
    > > Sum of specific Column
-
    > > Sum of diagonal elements
-
    > > Sum of anti-diagonal elements
-
    > > Press 0 for exit
