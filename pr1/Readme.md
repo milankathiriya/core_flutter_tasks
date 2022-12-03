@@ -22,4 +22,18 @@
 
 # Flutter App Tasks
 
-![List of Fruits](pr1/list_of_friuts.png?raw=true)
+### 1. List of Friuts App
+
+<img href="https://user-images.githubusercontent.com/29592628/205439018-b59eb0e4-a27a-41ca-b89d-5bd94bf8e8e1.jpg" width=300 height=700 />
+
+Description: 
+- Display list of fruits as shown in image.
+- Also display emojis in front of each fruit name.
+- Make sure to apply different colors for all fruits with proper text styling.
+
+### 2. Red & White
+
+<img href="https://user-images.githubusercontent.com/29592628/205439054-13b415aa-9680-4604-865a-5373cf644537.jpg" width=300 height=700 />
+
+Description:
+- Create an UI which represents RED & WHITE in vertical order which itself come from all IT course names.
