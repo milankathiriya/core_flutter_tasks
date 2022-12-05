@@ -13,5 +13,9 @@ Color Codes:
 
 <img src="https://user-images.githubusercontent.com/29592628/205633649-66ed4d68-247a-4007-8365-210e99fee318.png" height="700" alt="Math Calculator">
 
+Description:
+- Only perform arithmetic operations like +, -, *, / and % with AC functionality.
+
 Color Codes:
+
 <img src="https://user-images.githubusercontent.com/29592628/205633232-4e1bdbc3-d0df-4d55-b99e-b1243e320142.png" height="700" alt="Math Calculator">
