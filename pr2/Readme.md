@@ -2,7 +2,7 @@
 
 ### 1. GST Calculator
 
-<img src="https://user-images.githubusercontent.com/29592628/205632677-db88a300-e568-42e8-83be-b6b09a424747.png" width="300" height="700" alt="GST Calculator">
+<img src="https://user-images.githubusercontent.com/29592628/205632677-db88a300-e568-42e8-83be-b6b09a424747.png" height="700" alt="GST Calculator">
 
 Color Codes: 
 - Orange = #FF6B00
