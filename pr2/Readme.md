@@ -4,6 +4,9 @@
 
 <img src="https://user-images.githubusercontent.com/29592628/205632677-db88a300-e568-42e8-83be-b6b09a424747.png" height="700" alt="GST Calculator">
 
+Description:
+- Create all functionalities with UI mentioned in image.
+
 Color Codes: 
 - Orange = #FF6B00
 - DARK GRAY = #252427
