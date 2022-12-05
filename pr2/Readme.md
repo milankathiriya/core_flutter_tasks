@@ -20,5 +20,7 @@ Description:
 - Only perform arithmetic operations like +, -, *, / and % with AC functionality.
 
 Color Codes:
-
-<img src="https://user-images.githubusercontent.com/29592628/205633232-4e1bdbc3-d0df-4d55-b99e-b1243e320142.png" height="700" alt="Math Calculator">
+- Light Pink = #FF5A66
+- Background = #FFFFFF
+- Main Answer = #2E2D32
+- % sign and Sub Answer (Display above Main Answer section) = #8D8D8D
