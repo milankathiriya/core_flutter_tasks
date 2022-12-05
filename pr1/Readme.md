@@ -24,7 +24,7 @@
 
 ### 1. List of Friuts
 
-<img src="https://user-images.githubusercontent.com/29592628/205439018-b59eb0e4-a27a-41ca-b89d-5bd94bf8e8e1.jpg" width="300" height="700" alt="List of Fruits">
+<img src="https://user-images.githubusercontent.com/29592628/205630898-0ee2dd82-a761-4dd1-a38c-4ff4c9e4f5d8.png" width="300" height="700" alt="List of Fruits">
 
 Description: 
 - Display list of fruits as shown in image.
@@ -33,7 +33,7 @@ Description:
 
 ### 2. Red & White
 
-<img src="https://user-images.githubusercontent.com/29592628/205439054-13b415aa-9680-4604-865a-5373cf644537.jpg" width="300" height="700" alt="Red & White">
+<img src="https://user-images.githubusercontent.com/29592628/205631049-3e256946-074c-404e-b2f1-2a63c1863fe7.png" width="300" height="700" alt="Red & White">
 
 Description:
 - Create an UI which represents RED & WHITE in vertical order which itself come from all IT course names.
