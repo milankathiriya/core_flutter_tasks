@@ -2,18 +2,18 @@
 
 ### 1. GST Calculator
 
-<img src="https://user-images.githubusercontent.com/29592628/205630898-0ee2dd82-a761-4dd1-a38c-4ff4c9e4f5d8.png" width="300" height="700" alt="List of Fruits">
+<img src="https://user-images.githubusercontent.com/29592628/205632677-db88a300-e568-42e8-83be-b6b09a424747.png" width="300" height="700" alt="GST Calculator">
 
+![GST calc](https://user-images.githubusercontent.com/29592628/205632677-db88a300-e568-42e8-83be-b6b09a424747.png)
 
-
-Description: 
-- Display list of fruits as shown in image.
-- Also display emojis in front of each fruit name.
-- Make sure to apply different colors for all fruits with proper text styling.
+Color Codes: 
+- Orange = #FF6B00
+- DARK GRAY = #252427
+- BACKGROUND & Light font = #EEEEEE
 
 ### 2. Math Calculator
 
-<img src="https://user-images.githubusercontent.com/29592628/205631049-3e256946-074c-404e-b2f1-2a63c1863fe7.png" width="300" height="700" alt="Red & White">
+<img src="https://user-images.githubusercontent.com/29592628/205633052-11d547b3-b803-4ea3-800d-41370cdd9389.png" width="300" height="700" alt="Math Calculator">
 
-Description:
-- Create an UI which represents RED & WHITE in vertical order which itself come from all IT course names.
+Color Codes:
+<img src="https://user-images.githubusercontent.com/29592628/205633232-4e1bdbc3-d0df-4d55-b99e-b1243e320142.png" width="300" height="700" alt="Math Calculator">
