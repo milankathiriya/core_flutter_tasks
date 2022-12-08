@@ -20,8 +20,9 @@
 
 Description:
 - Create a Flutter app which generates an Invoice for you. 
-- You can refer any app in the market for this, no any pre-defined app UI have to be followed. 
-- You can implement fetures like 
+- You can refer any app in the market for this, no any pre-defined app UI have to be followed.
+- <strong>Attached screenshots are just only for reference. Do not try to create same UI.</strong>
+- You must have to implement below fetures: 
 - a. create invoice for multiple items with diferent quantities and price
 - b. add auto total price calculation feature
 - c. add different types of brand logos
