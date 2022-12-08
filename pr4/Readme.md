@@ -3,10 +3,10 @@
 ### 1. KBC Game
 
 <div style="display: flex;">
-  <img src="https://user-images.githubusercontent.com/29592628/206396496-6857cc08-a185-4639-9d60-77744bacd005.png" height="700" alt="OTP Generator">
-  <img src="https://user-images.githubusercontent.com/29592628/206396535-680d37f7-bebd-42d3-847f-b4f6e8b9c753.png" height="700" alt="OTP Generator">
-  <img src="https://user-images.githubusercontent.com/29592628/206396554-54332652-b98f-4d73-9ad0-8831e582afec.png" height="700" alt="OTP Generator">
-  <img src="https://user-images.githubusercontent.com/29592628/206396575-20c5b6f2-57d7-4ab4-9845-72611baa7bc2.png" height="700" alt="OTP Generator">
+  <img src="https://user-images.githubusercontent.com/29592628/206416986-a6290c89-ca07-4e9f-84bf-ffe1c0445f17.png" height="700" alt="OTP Generator">
+  <img src="https://user-images.githubusercontent.com/29592628/206417009-d0f5fd2a-bd46-4849-b214-2ffe442a74fd.png" height="700" alt="OTP Generator">
+  <img src="https://user-images.githubusercontent.com/29592628/206417017-4e4a1937-7e11-428e-a87b-be7e515cb4c4.png" height="700" alt="OTP Generator">
+  <img src="https://user-images.githubusercontent.com/29592628/206417023-41398de5-1a59-497c-8d96-7b233963e950.png" height="700" alt="OTP Generator">
 </div>
 
 Description:
