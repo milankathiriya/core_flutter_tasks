@@ -2,27 +2,26 @@
 
 ### 1. OTP Generator
 
-<img src="https://user-images.githubusercontent.com/29592628/205632677-db88a300-e568-42e8-83be-b6b09a424747.png" height="700" alt="GST Calculator">
-
-
+<img src="https://user-images.githubusercontent.com/29592628/206383415-d8f40e71-665b-48e5-8842-2ac6d13c0b49.png" height="700" alt="OTP Generator">
+<img src="https://user-images.githubusercontent.com/29592628/206383638-a867be69-2e85-4ba9-ad27-c429713d7ae8.png" height="700" alt="OTP Generator">
 
 Description:
 - Create a Flutter app which takes input from user via a TextField to determine how much long OTP will be. 
 - After supplying an input, by clicking on a Generate button, an OTP of given length will be shown to the user.
 
 Color Codes: 
-- Orange = #FF6B00
-- DARK GRAY = #252427
-- BACKGROUND & Light font = #EEEEEE
+- App Title = #F6DB87
+- Background = #15172B
+- Input Text = #FCF6BA
+- Generate OTP Button Background Gradient = #FFE8B8 to #F6DB87
 
 ### 2. Color Pallet Generator
 
-<img src="https://user-images.githubusercontent.com/29592628/205633649-66ed4d68-247a-4007-8365-210e99fee318.png" height="700" alt="Math Calculator">
+<img src="https://user-images.githubusercontent.com/29592628/206384727-bc49adae-bc01-45b0-8b27-5dfe40695c84.png" height="700" alt="Color Pallet Generator">
 
 Description:
 - Create a Flutter app which generates random Color Pallets (Random bar of different color combination) by clicking on Generate Pallet button.
 
 Color Codes:
-- Light Pink = #FF5A66
-- Background = #FFFFFF
-- Main Answer = #2E2D32
+- Background Gradient = #FFFFFF to #D8E6F4
+- App Title = #3BB3F9
