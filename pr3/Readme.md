@@ -17,7 +17,7 @@ Color Codes:
 
 ### 2. Color Pallet Generator
 
-<img src="https://user-images.githubusercontent.com/29592628/206384727-bc49adae-bc01-45b0-8b27-5dfe40695c84.png" height="700" alt="Color Pallet Generator">
+<img src="https://user-images.githubusercontent.com/29592628/206386600-59ab27fb-ac4c-43be-8e3b-e08b72fa676c.png" height="700" alt="Color Pallet Generator">
 
 Description:
 - Create a Flutter app which generates random Color Pallets (Random bar of different color combination) by clicking on Generate Pallet button.
