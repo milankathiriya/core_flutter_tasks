@@ -11,3 +11,5 @@
 
 Description:
 - Create a KBC Game as shown in images.
+- App must have a Winning Screen, Losing Screen and a Game Restart Screen with final score.
+- After each question's answer, show a relavent winning or losing screen. 
